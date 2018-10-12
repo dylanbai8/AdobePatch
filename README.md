@@ -1,0 +1,2 @@
+# AdobePatch
+此项目内的破解补丁用于注册激活Adobe系列的所有产品，当然，同系列的Adobe其他软件也是可以正常注册激活，前提是要同系列。例如你从软件中选择Photoshop CC 2015的就不能激活Dreamweaver CS6。现在支持最新版本Adobe CC 2018系列破解。
